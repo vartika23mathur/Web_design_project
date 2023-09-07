@@ -1,0 +1,43 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background:linear-gradient(to top,rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(5.jpg);
+    background-position:center;
+    background-size:cover;
+    height:109vh;
+    font-family: 'Poppins',sans-serif;
+}
+.notes{
+    display:block;
+    
+    background-color:orangered;
+    color:white;
+    width:600px;
+    margin-left:30%;
+    margin-top:5%;
+}
+h1{
+    margin-bottom:10px;
+    color:red;
+    padding-top:5%;
+    font-style:italic;
+}
+.notes1{
+    display:block;
+    background-color:white;
+    color:orangered;
+    width:600px;
+    margin-left:30%;
+    margin-top:1%;
+}
+.notes2{
+    display:block;
+    background-color:orangered;
+    color:white;
+    width:600px;
+    margin-left:30%;
+    margin-top:1%;
+}

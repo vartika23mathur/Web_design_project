@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+    background:white;
+}
+
+h1{
+  
+   
+    color:white;
+    background-color: orangered;
+}
+iframe{
+    
+    padding-top:30px;
+    scale: 90px;
+    padding-left:400px;
+    
+
+}
+
+h4{
+    padding-left:200px;
+    padding-top:55px;
+    font-size:30px;
+    color:white;
+    background-color: orangered;
+}
+.aboutimg{
+    
+    padding-left:300px;
+    padding-top:20px;
+
+}
+.one{
+    background-color: orangered;
+    color:white;
+    font-size:25px;
+    padding-top: 10px;
+
+}
