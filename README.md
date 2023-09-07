@@ -1,1 +1,57 @@
 # Web_design_project
+// Home page html code
+<html>
+<head>
+    <title>Web Design</title>
+    <link rel="stylesheet" href="style2.css">
+    
+</head>
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class="icon">
+                <h2 class="logo">Coursera</h2>
+            </div>
+           
+      <table border="0" width="100%" height="10%">
+        <tr>
+            <th width="5%" bgcolor="#ff7200"><a href="project.html" style="text-decoration:none"><font color="white">HOME</font></a></th>
+            <th width="10%"><a href="about.html" style="text-decoration:none"><font color="white">ABOUT</font></a></th>
+            <th width="10%"><a href="courses.html" style="text-decoration:none"><font color="white">COURSES</font></a></th>
+            <th width="10%"><a href="notes.html"  style="text-decoration:none"><font color="white">NOTES</font></a></th>
+            <th width="10%"><a href="contect us.html" style="text-decoration:none"><font color="white">CONTACT US</font></a></th>
+            
+        </tr>
+    </table>
+    <div class="search">
+        <input class="srch" type="search" name="" placeholder="Type To Text">
+        <a href="#"><button class="btn">Search</button></a>
+    </div>
+    <div class="content"> 
+        <h1> <br> <br> Web Design & <br><span>Development</span> <br>Course</h1>
+        <p class="par">A Web Designing course belongs to the field of Computer Science and IT <br>It enables students to learn various techniques,
+            <br> tools and programming languages in order to create and maintain web pages</p>
+            <button class="cn"><a href="registration.html"><b>JOIN US</b></a></button>
+            <div class="form">
+                <h2>Login Here</h2>
+                <input type="email" name="email" placeholder="Enter Email Here">
+                <input type="password" name="" placeholder="Enter Password Here">
+                <button class="btn"><a href="#">Login</a></button>
+                <p class="link">Don't have an account</p><br>
+                <a href="#">Sign up Here</a>
+                <p class="liw">Log in with</p>
+                <div class="icons">
+                    <a href="#"><ion-icon name="logo-facebook"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-google"></ion-icon></a>
+                    <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
+                </div>
+            </div>
+    </div>
+</div>
+</div>
+<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+
+</body>
+</html>
